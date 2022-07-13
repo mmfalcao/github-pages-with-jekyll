@@ -1,14 +1,19 @@
+---
+title: Marcel - Github Pages
+---
+
 <div id="header" align="center">
   <!-- to fill img header -->
 </div>
 
 # Hey, I'm Marcel 👋
+
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMm7zduYWCe3t3jEWSlsE_p-YjcDm7_BPBw3sjsRByOCvSCYKewFkKmN0V1SVsA81C7I&usqp=CAU" width="200">
 <br/>
 
 <div align="center">
   
- [![Linkedin Badge](https://img.shields.io/badge/-mmfalcao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmfalcao/)](https://www.linkedin.com/in/mmfalcao/)
+ [![Linkedin Badge](https://img.shields.io/badge/-mmfalcao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmfalcao)](https://www.linkedin.com/in/mmfalcao/)
  [![GitHub Badge](https://img.shields.io/github/followers/mmfalcao?label=follow&style=social)](https://github.com/mmfalcao)
 
   <p><em>Nice to meet you! I'm a self-taught passionate Backend developer from Brazil a 🇮🇳</em></p>
